@@ -1,0 +1,31 @@
+string "FullName;
+ 
+ string "FirstName";
+ 
+ string "MiddleInitial";
+ 
+ string "LastName";
+ 
+ string FullName;
+ 
+ int heightFeet;
+ 
+ double heightInches;
+ 
+ if heightFeet;
+ 
+ then heightInches;
+ 
+ double totalHeightCM;
+ 
+ int age;
+ 
+ bool isCitizen;
+ 
+ bool canVote;
+ 
+ string "FullName";
+ 
+ totalHeight;
+ 
+ bool canVote;
